@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mhossain-ds
 - 👀 I’m interested in Data Analytics, Machine Learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python & R
 - 💞️ I’m looking to collaborate on Using Python for Data Anaytics and Machine Learning
 - 📫 How to reach me- mhossain.ds@gmail.com
 
